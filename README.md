@@ -1,0 +1,2 @@
+# mcservercheck.github.io
+Stauts
