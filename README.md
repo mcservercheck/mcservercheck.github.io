@@ -1,2 +1,2 @@
-# mcservercheck.github.io
-Stauts
+# Minecraft Stauts Check Page
+個人用
